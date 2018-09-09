@@ -31,3 +31,11 @@ opacity: .9;
         -moz-animation-delay: 2s;
         animation-delay: 2s;
         }
+
+        body{
+            background: orange;
+            color: #ffffff;
+        }
+        .btn, .btn-dager:hover{
+            background:  orange;
+        }
